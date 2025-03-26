@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(228, 171, 199);
+}
+
+h1 {
+    position:relative;
+    text-align: center;
+    font-family: "Playwrite IN", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2 {
+    text-align: center;    
+}

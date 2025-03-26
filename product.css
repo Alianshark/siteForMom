@@ -1,0 +1,17 @@
+img {
+    width: 20%;
+    height: 20%;
+    border-radius: 25px;
+    margin: 15px;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    padding:50px;
+}
+
+p {
+    padding: 30px;
+    text-shadow: 10%;
+}
