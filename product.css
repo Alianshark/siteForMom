@@ -19,7 +19,7 @@ p {
     color: white;
 }
 
-button {
+.buy-button {
     text-align: center;
     display: block;
     background-color: rgb(163, 31, 157) ;
@@ -28,8 +28,29 @@ button {
     border: none;
     cursor: pointer;
     border-radius: 30px;
+    text-decoration: none;  
 }
 
-button:hover {
+.buy-button:hover {
     background-color: #45a049; /* Цвет кнопки при наведении */
+}
+
+.back-button {
+    text-align: left;
+    display: block;
+    text-decoration: none;
+    padding: 10px 50px;
+    border: none;
+    cursor: pointer;
+    border-radius: 30px;
+    background-color: rgb(167, 108, 164);
+    border-radius: 25px;    
+}
+.back-button-container {
+    text-align: center;
+    text-decoration: none;
+}
+
+.back-button:hover {
+    background-color: #92398e; /* Цвет кнопки при наведении */
 }
